@@ -1,4 +1,4 @@
-# Jogo-de-adivinha-o
+# Jogo_adivinhacao
 Um simples jogo de adivinhação em Python
 
 # Objetivo do Projeto
